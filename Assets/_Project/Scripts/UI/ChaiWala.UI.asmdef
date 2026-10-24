@@ -1,0 +1,16 @@
+{
+    "name": "ChaiWala.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a96f24358edd4488b63e5ea75115408"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

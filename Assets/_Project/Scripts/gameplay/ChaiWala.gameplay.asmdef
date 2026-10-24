@@ -1,0 +1,16 @@
+{
+    "name": "ChaiWala.gameplay",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dbf844e73a4c0414093ebbf8d9c7cf17"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
