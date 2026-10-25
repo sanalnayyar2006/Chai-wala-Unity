@@ -1,9 +1,14 @@
 using UnityEngine;
+using ChaiWala.Core.Application;
 
-public class Bootstrapper : MonoBehaviour
+namespace ChaiWala.Core.Bootstrap
 {
-    private void Awake()
+    public sealed class Bootstrapper : MonoBehaviour
     {
-        Debug.Log("Bootstrap Started..");
+        private void Awake()
+        {
+            var applicationRoot = new ApplicationRoot();
+            applicationRoot.Initialize();
+        }
     }
 }
